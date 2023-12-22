@@ -1,2 +1,2 @@
 # BankApp
- Responsive Bank Web App 
+ Responsive Bank Web App created with Vite + React
